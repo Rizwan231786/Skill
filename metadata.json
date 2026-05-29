@@ -1,0 +1,6 @@
+{
+  "name": "SkillLink",
+  "description": "Pakistan's premier freelance service marketplace with CNIC verification, secure local escrow payments, and AI matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
